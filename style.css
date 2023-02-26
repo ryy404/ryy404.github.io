@@ -1,0 +1,44 @@
+
+
+
+
+.jumbotron
+{
+    padding-top: 6rem;
+    background-color: #e2edff;
+}
+
+/* #about
+{
+    margin: 2rem 2rem;
+} */
+
+#project
+{
+    background-color: #e2edff;
+}
+
+section
+{
+    padding-top: 5rem;
+}
+
+/* #navbarNav :hover
+{
+    color: black;
+}
+
+#navbarNav ::after
+{
+    content: '';
+    display: block;
+    padding-bottom: 0.5rem;
+    border-bottom: 0.1rem solid black;
+    transform: scaleX(0);
+    transition: 0.2s linear;
+} */
+
+.collapse navbar-collapse :hover
+{
+    color: black;
+}
